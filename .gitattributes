@@ -1,0 +1,2 @@
+git-lfs-3.7.1 filter=lfs diff=lfs merge=lfs -text
+kg.csv filter=lfs diff=lfs merge=lfs -text
